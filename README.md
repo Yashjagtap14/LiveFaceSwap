@@ -4,11 +4,11 @@ This detects faces, resizes your chosen face, and overlays it smoothly for a nat
 
 🚀 Features
 
-🎥 Real-time face swap with webcam
-🖼 Supports custom face images
-✨ Smooth blending with OpenCV’s seamlessClone
-😎 Beginner-friendly: press Q to quit anytime
-🧑‍🤝‍🧑 Optional: multiple faces support
+🎥 Real-time face swap with webcam,
+🖼 Supports custom face images,
+✨ Smooth blending with OpenCV’s seamlessClone,
+😎 Beginner-friendly: press Q to quit anytime.
+
 
 🔧 How It Works
 
