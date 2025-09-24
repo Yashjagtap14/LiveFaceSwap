@@ -8,8 +8,7 @@ This project demonstrates computer vision techniques while highlighting potentia
 🎥 Real-time face swap using your webcam  
 🖼 Supports custom face images  
 ✨ Smooth blending with OpenCV’s seamlessClone  
-😎 Beginner-friendly: press Q to quit anytime  
-🧑‍🤝‍🧑 Optional: multiple faces support  
+😎 Beginner-friendly: press Q to quit anytime   
 
 🔧 How It Works
 
